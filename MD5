@@ -1,0 +1,14 @@
+c90bdd6461a34089214e13ddb10e644b *DESCRIPTION
+4482d3cb8d7eaaa8a09c417727f14ad2 *NAMESPACE
+af6f57e0ef648bacaeb7e1b658a9060c *R/CVsharp.R
+b356a3ffbfcc1f4c947ceeac0df74524 *R/LLsharpen.R
+a088ff9ec99e56d3e1f4ab7fef2e1112 *R/sharpiteration.R
+e0be46ece34d3af5efacb46065d9711c *data/MPG.rda
+c00e7b48d13299e0f436ef358db57d6c *data/burnRate.rda
+fc0ade605c47a404c3e01d673fa28b63 *data/whale.rda
+3ce09399ebd912f886e2a3518cdabe24 *man/CVsharp.Rd
+cdba001661fdc4f6d9f2c6855daa743f *man/LLsharpen.Rd
+a7aedfae89cf521d735885d7834aa657 *man/MPG.Rd
+b0a676319b493f995c9245c4ef72142c *man/burnRate.Rd
+68f92cc24fd5ee5674608e33e372d6fe *man/sharpiteration.Rd
+112b743559b64756d8ce5ad002bc503a *man/whale.Rd
