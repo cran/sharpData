@@ -1,8 +1,10 @@
 # Export all names
 exportPattern(".")
-
+export(LLmat, LLmono, LL.fit, NWmat, NWmono, NW.fit)
 # Import all packages listed as Imports or Depends
 importFrom("stats", "dnorm", "rnorm", "lm",  "coef", "approx", "complete.cases")
-importFrom("graphics", "plot")
+importFrom("graphics", "plot","lines", "points")
 importFrom("KernSmooth", "locpoly", "dpill")
+importFrom("quadprog", "solve.QP")
+useDynLib(sharpData)
 
