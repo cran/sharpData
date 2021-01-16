@@ -1,7 +1,7 @@
 Package: sharpData
 Title: Data Sharpening
-Version: 1.2
-Author: W.J. Braun
+Version: 1.3
+Author: W.J. Braun 
 Description: Functions and data sets inspired by data sharpening -
              data perturbation to achieve improved performance in
              nonparametric estimation, as described in Choi, E., Hall, P. 
@@ -18,10 +18,10 @@ Description: Functions and data sets inspired by data sharpening -
 Maintainer: W.J. Braun <john.braun@ubc.ca>
 LazyLoad: true
 LazyData: true
-Depends: R (>= 2.0.1), KernSmooth, stats, quadprog
+Depends: R (>= 3.5.0), KernSmooth, stats, quadprog
 ZipData: no
 License: Unlimited
 NeedsCompilation: yes
-Packaged: 2019-08-18 05:17:03 UTC; braun
+Packaged: 2021-01-12 11:29:42 UTC; braun
 Repository: CRAN
-Date/Publication: 2019-08-19 18:50:09 UTC
+Date/Publication: 2021-01-16 02:10:06 UTC

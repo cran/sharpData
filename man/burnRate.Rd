@@ -13,6 +13,10 @@ for a fixed period of time subjected to a fixed windspeed.
     \item{proportionBurned}{a numeric vector}
     \item{densityRatio}{ratio of windspeed, multiplied by density of air,
  to density of firebrand}
+    \item{species}{factor listing tree species}
+    \item{diameter}{numeric vector of diameter of burned particle in cm}
+    \item{windspeed}{windspeed in cm per second}
+    \item{testTime}{length of test in seconds}
   }
 }
 \source{

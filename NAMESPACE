@@ -1,6 +1,6 @@
 # Export all names
 exportPattern(".")
-export(LLmat, LLmono, LL.fit, NWmat, NWmono, NW.fit)
+export(MonoMat, Monolpoly, sharpiteration, LLsharpen, CVsharp)
 # Import all packages listed as Imports or Depends
 importFrom("stats", "dnorm", "rnorm", "lm",  "coef", "approx", "complete.cases")
 importFrom("graphics", "plot","lines", "points")
