@@ -18,6 +18,12 @@ LLsharpen(x, y, h)
   a vector containing the sharpened (i.e. perturbed) response values, 
 ready for input into a local linear regression estimator.
   }
+\references{
+Choi, E., Hall, P. and Rousson, V. (2000) 
+Data sharpening methods for bias reduction in nonparametric regression.
+Annals of Statistics 28(5) 1339-1355. 
+}
+
 \author{W.J. Braun }
 \seealso{ \code{locpoly} }
 \examples{
